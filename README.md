@@ -57,5 +57,3 @@ Where a lab is an attack, the write-up ends with how a developer would have clos
 ## Certifications
 
 - Google Cybersecurity Professional Certificate (2025)
-- TOEIC (2024)
-- Certification Voltaire, French (2023)
